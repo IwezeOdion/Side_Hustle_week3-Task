@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../All My WebSites/2ndwebsite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Side_Hustle_week3 Task"
+	}
+}
